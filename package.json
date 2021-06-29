@@ -2,7 +2,7 @@
   "name": "reviews-slider",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://ujalak1812.github.io/reviews-slider",
+  "homepage": "https://ujalak1812.github.io/reviews-slider/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
